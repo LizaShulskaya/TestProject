@@ -12,3 +12,5 @@ let ficha1 = "ficha1"
 
 let ficha2 = "ficha2"
 
+let c = 12
+
