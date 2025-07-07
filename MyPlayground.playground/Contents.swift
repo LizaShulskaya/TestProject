@@ -9,3 +9,6 @@ let b = 10
 let task1 = "task1"
 
 let ficha1 = "ficha1"
+
+let ficha2 = "ficha2"
+
