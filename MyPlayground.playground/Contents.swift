@@ -14,3 +14,4 @@ let ficha2 = "ficha2"
 
 let c = 12
 
+let d = 15
